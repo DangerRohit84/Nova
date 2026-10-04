@@ -1,0 +1,14 @@
+# NOVA MVP Features
+- Voice Input (Simulated)
+- Camera Input (Simulated)
+- OCR (Simulated)
+- Local Intent Understanding
+- Local Structured Reasoning
+- Action Planner
+- Controlled Tool Execution
+- Local File Search Tool
+- Reminder Creation Tool
+- Note Creation Tool
+- Camera-context Extraction
+- Office/Laptop Handoff Abstraction (Office Kit Bridge)
+- Action Confirmation
